@@ -1,2 +1,2 @@
 # UE4-PetSystemTemplate
-Pet System Template For Unreal Engine 4.21
+Pet System & Item System Template For Unreal Engine 4.21
